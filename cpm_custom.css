@@ -1,0 +1,46 @@
+#name_id {
+  background: none;
+  box-shadow: none;
+  border: none;
+  color: #000000;
+}
+
+input#name_id:focus {
+  border: none;
+  outline: none;
+  }
+#cpm_filestack_button input[type='button'] {
+    background: #579AF6;
+    color: #fff;
+    padding: 5px 20px 10px 20px;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px #eeeeee;
+    border: 0px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+div#cpm_filestack_button {
+  float: left;
+  margin-right: 20px;
+  cursor: pointer;
+}
+div.cpm_formidable_form_img figure {
+  width: 50px;
+  float: left;
+  margin: 0 5px;
+}
+div.cpm_formidable_form_img figcaption {
+  font-size: 10px;
+  line-height: 10px;
+  word-break: break-all;
+}
+div.cpm_formidable_form_img {
+    float: left;
+}
+div.cpm_formidable_form_img img {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #cfcfcf;
+  padding: 3px;
+  object-fit: contain;
+}
